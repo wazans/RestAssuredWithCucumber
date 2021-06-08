@@ -1,0 +1,13 @@
+{
+    "cars": {
+        "Nissan": [
+            {"model":"Sentra"},
+            {"model":"Maxima"},
+            {"model":"Skyline"}
+        ],
+        "Ford": [
+            {"model":"Taurus"},
+            {"model":"Escort"}
+        ]
+    }
+}
