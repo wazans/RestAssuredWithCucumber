@@ -1,4 +1,4 @@
-package Steps;
+package RestAssuredTestCases;
 
 import static io.restassured.RestAssured.given;
 

@@ -8,6 +8,7 @@ import static io.restassured.RestAssured.given;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 
+import RestAssuredTestCases.POSTReq;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.restassured.http.ContentType;
