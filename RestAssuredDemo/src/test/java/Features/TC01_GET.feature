@@ -1,4 +1,4 @@
-@UserInfoAPI @APISuite
+@UserInfoAPI @APISuite @Get
 Feature: User_Info_API
 
 
